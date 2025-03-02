@@ -1,0 +1,373 @@
+{
+  "vaultName": "Maastricht",
+  "lastExport": 1740948512008,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Characters/NPC's/Eluna Stormwhisper.md",
+    "Characters/NPC's/The Lady of the Hold.md",
+    "Characters/Playable Characters/Arnihl/Arnihl.md",
+    "Characters/Playable Characters/Buttercup Stumpington/Buttercup Stumpington.md",
+    "Characters/Playable Characters/Kaelion Sylren/Character Sheets/Kaelion - Level 1.pdf",
+    "Characters/Playable Characters/Kaelion Sylren/Pictures/Older Kaelion.jpg",
+    "Characters/Playable Characters/Kaelion Sylren/Pictures/Young Kaelion.jpg",
+    "Characters/Playable Characters/Kaelion Sylren/Kaelion Sylren.md",
+    "Characters/Playable Characters/Sabor/Sabor.md",
+    "Characters/Playable Characters/Sariel/Pictures/Sariel.jpg",
+    "Characters/Playable Characters/Sariel/Sariel.md",
+    "Characters/Playable Characters/Party.md",
+    "Locations/Forgotten Realms/High Forest/The Skywatchers of the High Forest.md",
+    "Locations/Forgotten Realms/Olostin's Hold/The Flaming Skull Tavern/The Flaming Skull.md",
+    "Locations/Forgotten Realms/Olostin's Hold/Olostin's Hold.md",
+    "Session Notes.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Characters/NPC's/Eluna Stormwhisper.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 3018,
+      "exportedPath": "characters/npc's/eluna-stormwhisper.html",
+      "dependencies": []
+    },
+    "Characters/NPC's/The Lady of the Hold.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 159,
+      "exportedPath": "characters/npc's/the-lady-of-the-hold.html",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Arnihl/Arnihl.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 196,
+      "exportedPath": "characters/playable-characters/arnihl/arnihl.html",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Buttercup Stumpington/Buttercup Stumpington.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 186,
+      "exportedPath": "characters/playable-characters/buttercup-stumpington/buttercup-stumpington.html",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Kaelion Sylren/Character Sheets/Kaelion - Level 1.pdf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 16361309,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/character-sheets/kaelion-level-1.pdf",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Kaelion Sylren/Pictures/Older Kaelion.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 425092,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/pictures/older-kaelion.jpg",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Kaelion Sylren/Pictures/Young Kaelion.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 524642,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/pictures/young-kaelion.jpg",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Kaelion Sylren/Kaelion Sylren.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 18830,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/kaelion-sylren.html",
+      "dependencies": [
+        "characters/playable-characters/kaelion-sylren/pictures/young-kaelion.jpg",
+        "characters/playable-characters/kaelion-sylren/pictures/older-kaelion.jpg"
+      ]
+    },
+    "Characters/Playable Characters/Sabor/Sabor.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 223,
+      "exportedPath": "characters/playable-characters/sabor/sabor.html",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Sariel/Pictures/Sariel.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 131963,
+      "exportedPath": "characters/playable-characters/sariel/pictures/sariel.jpg",
+      "dependencies": []
+    },
+    "Characters/Playable Characters/Sariel/Sariel.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 1130,
+      "exportedPath": "characters/playable-characters/sariel/sariel.html",
+      "dependencies": [
+        "characters/playable-characters/sariel/pictures/sariel.jpg"
+      ]
+    },
+    "Characters/Playable Characters/Party.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 101,
+      "exportedPath": "characters/playable-characters/party.html",
+      "dependencies": []
+    },
+    "Locations/Forgotten Realms/High Forest/The Skywatchers of the High Forest.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 11969,
+      "exportedPath": "locations/forgotten-realms/high-forest/the-skywatchers-of-the-high-forest.html",
+      "dependencies": []
+    },
+    "Locations/Forgotten Realms/Olostin's Hold/The Flaming Skull Tavern/The Flaming Skull.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 107,
+      "exportedPath": "locations/forgotten-realms/olostin's-hold/the-flaming-skull-tavern/the-flaming-skull.html",
+      "dependencies": []
+    },
+    "Locations/Forgotten Realms/Olostin's Hold/Olostin's Hold.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 70,
+      "exportedPath": "locations/forgotten-realms/olostin's-hold/olostin's-hold.html",
+      "dependencies": []
+    },
+    "Session Notes.md": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 6379,
+      "exportedPath": "session-notes.html",
+      "dependencies": []
+    },
+    "characters/playable-characters/kaelion-sylren/pictures/young-kaelion.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 524642,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/pictures/young-kaelion.jpg",
+      "dependencies": []
+    },
+    "characters/playable-characters/kaelion-sylren/pictures/older-kaelion.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 425092,
+      "exportedPath": "characters/playable-characters/kaelion-sylren/pictures/older-kaelion.jpg",
+      "dependencies": []
+    },
+    "characters/playable-characters/sariel/pictures/sariel.jpg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 131963,
+      "exportedPath": "characters/playable-characters/sariel/pictures/sariel.jpg",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 16797,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 1449,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 137305,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 262,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1740948512008,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
